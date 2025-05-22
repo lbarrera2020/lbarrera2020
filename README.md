@@ -1,3 +1,5 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div class="profile-container">
   <h1>Hola! Soy Luis Barrera</h1>
   <p>Desarrollador web apasionado por la creaci&oacute;n de soluciones robustas y eficientes. Especializado en (Linux, Apache, MySQL, PHP) y con experiencia en interfaces din&aacute;micas usando CSS, Jacript y AJAX.</p>
@@ -81,3 +83,5 @@
     </div>
   </div>
 </div>
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
