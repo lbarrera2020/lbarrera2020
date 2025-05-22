@@ -3,7 +3,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <div class="profile-container">
-  <h1>Hola! Soy Luis Barrera</h1>
+  <h1>Luis Barrera</h1>
   <p>Desarrollador web apasionado por la creaci&oacute;n de soluciones robustas y eficientes. Especializado en (Linux, Apache, MySQL, PHP) y con experiencia en interfaces din&aacute;micas usando CSS, Jacript y AJAX.</p>
   <h1>Experiencias laborales</h1>
   <div class="container">
