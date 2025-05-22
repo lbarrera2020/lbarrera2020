@@ -50,6 +50,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300F_00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
 
 
@@ -62,6 +63,12 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Vagrant](https://img.shields.io/badge/Vagrant-%231868F2.svg?style=for-the-badge&logo=vagrant&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-%235849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white)&nbsp;
+
+
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -81,7 +88,7 @@
   <div class="footer">
     <p>Conéctate conmigo:</p>
     <div class="social-links">
-      <a href="mailto:lbarrerac@gmail.com">Email</a>
+      <a href="mailto:lbarrerac@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
     </div>
   </div>
 </div>
